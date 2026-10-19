@@ -1,0 +1,20 @@
+{
+  "name": "همراه کسب‌وکار | CRM",
+  "short_name": "CRM کسب‌وکار",
+  "description": "CRM محلی سه کسب‌وکار با تاریخ شمسی و پشتیبان‌گیری",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#14213d",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
